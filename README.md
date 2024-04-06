@@ -59,4 +59,4 @@ print("---------------------------------------------------------------")
 ![Screenshot 2024-04-06 085016](https://github.com/POOJASREE-B/Single-server-infinite-capacity---Markov-Model/assets/144362256/a6a6b496-33c6-47a6-b9e9-474d0bac18d1)
 
 ## Result :
-
+The number of material in the system and in the conveyor and waiting time are successfully found.
